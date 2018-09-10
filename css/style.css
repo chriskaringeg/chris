@@ -1,16 +1,7 @@
-.author {
-  color: red;
-}
-p.author {
-  font-size: 12px;
-}
 body {
-  background-color: blue;
+    background-image: url(https://image.freepik.com/free-vector/abstract-dark-blue-polygonal-background_1035-9700.jpg);
+    color: silver;
 }
 img{
-  float:right;
-h1{
-  color: red
-  text:align centre
-  
+  float: right;
 }
